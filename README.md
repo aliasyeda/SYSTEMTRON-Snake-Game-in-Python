@@ -39,7 +39,7 @@ python snakegame.py
 
 snakegame.py : Main Python file containing the Snake Game code
 
-snake_screenshot.png : Screenshot of the game interface
+snake_game.png : Screenshot of the game interface
 
 ## 👨‍💻 Author
 
